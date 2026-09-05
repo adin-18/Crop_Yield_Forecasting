@@ -1,4 +1,4 @@
-# YieldSense: Forecasting Crop Yield with Machine Learning & Deep Learning
+# Crop Yield Forecasting with Machine Learning & Deep Learning
 
 **Predicting crop yield (tonnes/hectare) from environmental and agronomic data to support farm planning, crop insurance risk assessment, and early shortage forecasting**
 
